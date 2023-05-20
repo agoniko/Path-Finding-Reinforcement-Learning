@@ -12,6 +12,9 @@ The main goal of this project is to explore and compare different approaches to 
 
 - **A* Search Algorithm:** The classic A* algorithm, known for its efficiency and optimality, has been implemented to solve mazes. It cleverly combines heuristic estimation and intelligent search to find the shortest path from start to goal.
 
+## Results
+Even if they often make different paths, if trained enough, the RL and A* agents complete the maze with the same number of steps
+
 ## Getting Started
 
 ### Installation
