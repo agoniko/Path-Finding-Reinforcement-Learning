@@ -20,9 +20,7 @@ The main goal of this project is to explore and compare different approaches to 
 ```shell
 git clone https://github.com/agoniko/Path-Finding-Reinforcement-Learning.git
 ```
-2. Navigate to the project directory:
-
-3. Install the required dependencies:
+2. Install the required dependencies:
 ```
 pip install -r requirements.txt
 ```
