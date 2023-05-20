@@ -36,4 +36,4 @@ This project is open-source. You are free to use, modify, and distribute the cod
 1. Run the ```path-finder.ipynb``` notebook to start solving mazes.
 
 ## Example
-<img src="./game.gif" width="300" height="300" />
+<img src="./game.gif" width="500" height="500" />
